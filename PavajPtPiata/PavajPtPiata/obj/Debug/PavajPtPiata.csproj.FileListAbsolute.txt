@@ -1,1 +1,6 @@
 D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\obj\Debug\PavajPtPiata.csprojResolveAssemblyReference.cache
+D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\bin\Debug\PavajPtPiata.dll
+D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\bin\Debug\PavajPtPiata.pdb
+D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\obj\Debug\PavajPtPiata.dll
+D:\Programare\JuniorMind\PavajPtPiata\PavajPtPiata\obj\Debug\PavajPtPiata.pdb
