@@ -9,14 +9,16 @@ namespace PavajPtPiata
         [TestMethod]
         public void TestMethod1()
         {
-            calculatorPavaj(1,1,1) == 7;
+          //  calculatorPavaj(1,1,1) == 1;
 
         }
     }
 }
  int calculatorPavaj(int lungime, int latime, int laturaPavaj)
     {
-    int ariePiata = lungime * latime;
-    int ariePavaj = laturaPavaj * laturaPavaj;
-    return 7;
+    int nrPavajLungime = lungime / laturaPavaj;
+
+    int nrPavajLatime = latime / laturaPavaj;
+
+    return nrPavajLungime * nrPavajLatime ;
     }
