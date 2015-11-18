@@ -7,10 +7,14 @@ namespace PavajPtPiata
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test1()
         {
-        Decimal calculatorPavaj(1,1,1) == 1;
-        
+            Assert.AreEqual(1, calculatorPavaj(1, 1, 1));
+        }
+        [TestMethod]
+        public void Test2()
+        {
+            Assert.AreEqual(4, calculatorPavaj(6, 6, 4));
         }
         int calculatorPavaj(int lungime, int latime, int laturaPavaj)
         {
